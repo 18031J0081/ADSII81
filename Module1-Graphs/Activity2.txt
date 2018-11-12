@@ -1,0 +1,7 @@
+1.The vertices in ascending order, which are adjacent to vertex 0-{(0,1),(0,2),(0,5),(0,6)}
+
+2.The vertices in ascending order, which are adjacent to vertex 7-{(7,8)}
+
+3.All the vertices in ascending order, which are adjacent to vertex 9-{(9,10),(9,11),(9,12)}
+
+4.All the vertices in ascending order, which are adjacent to vertex 13-NULL
